@@ -1,0 +1,19 @@
+{
+  "name": "mewtwo-tours",
+  "version": "1.0.0",
+  "description": "A location application where people can post their favorite places",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mewtwo-tours/mewtwo-tours.git"
+  },
+  "author": "https://github.com/mewtwo-tours",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mewtwo-tours/mewtwo-tours/issues"
+  },
+  "homepage": "https://github.com/mewtwo-tours/mewtwo-tours#readme"
+}
